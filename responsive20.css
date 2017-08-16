@@ -1,0 +1,57 @@
+.container {
+  width: 25%;
+  height:auto;
+  float;left;
+
+ }
+
+ .container2 {
+  margin: 0%;
+ }
+
+ .container5 {
+  clear: both;
+  float:none;
+  width:auto;
+  padding:20px 0 0 0;
+ }
+
+  .container3 {
+  width: 47.5%;
+ }
+
+ img {
+  max-width: 177%;
+  height: auto;
+  margin: 0 0 10px 0;
+}
+
+html {
+
+	font-size: 10.7px;
+	font: "Times New Roman";
+}
+
+h1 {
+	font-size: .5rem;
+}
+
+h2 {
+	font-size:.30rem;
+}
+
+h3 {
+	font-size: .57em;
+}
+
+h4 {
+	font-size:-10em;
+}
+
+h6 {
+	font size:30px;
+}
+
+
+
+
